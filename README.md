@@ -4,15 +4,11 @@ Stickless Joysticks -- These designs are mostly for digital switching, but I'm w
 The Stickless_Joystick_Robust_Vxx.scad is the master file in OpenSCAD. Even if you don't use OpenSCAD, the code is human readable (at least, human programmer readable) and can be viewed in notepad.
 
 ******************************
-** Don't Rely On The STLs!  **
-** most of them are test    **
-** renders I did. Often in- **
-** progress and incomplete! **
-**  Re-render in OpenSCAD   **
+Don't Rely On The STLs! Most of them are test renders I did. Often in-progress and incomplete! Re-render in OpenSCAD
 ******************************
 
 *********************
-***** IMPORTANT *****
+IMPORTANT
 *********************
 
 Version 3x does NOT INCLUDE CASE SCREWS/CLOSURE. I'm still testing the base designs, and will add screws and countersinks in a later version.
